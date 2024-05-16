@@ -8,7 +8,7 @@
 [Your Name](https://www.imdb.com/title/tt5311514/)
 
 
-[Trailer Link](https://youtu.be/xU47nhruN-Q?si=vfDT-uZA2BWQmeQ-)
+[Trailer](https://youtu.be/xU47nhruN-Q?si=vfDT-uZA2BWQmeQ-)
 
 ---
 
