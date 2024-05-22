@@ -1,5 +1,7 @@
-# Your Name <p align="center">
-## Kimi no Nawa <p align="center">
+<p align="center">
+# Your Name 
+<p align="center">  
+## Kimi no Nawa 
 
 ![Image](https://m.media-amazon.com/images/M/MV5BNGYyNmI3M2YtNzYzZS00OTViLTkxYjAtZDIyZmE1Y2U1ZmQ2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg)
 
