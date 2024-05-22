@@ -1,5 +1,5 @@
-<h1 align="center" style="font-family: TimesNewRoman; font-size: 36px;"><b>Your Name</b></h1>
-<h2 align="center" style="font-family: TimesNewRoman; font-size: 24px;"><b>Kimi no Nawa</b></h2>
+<h1 align="center" style="font-size: 36px;"><b>Your Name</b></h1>
+<p align="center" style="font-size: 24px;"><b>Kimi No Nawa</b></p>
 
 ![Image](https://m.media-amazon.com/images/M/MV5BNGYyNmI3M2YtNzYzZS00OTViLTkxYjAtZDIyZmE1Y2U1ZmQ2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg)
 
